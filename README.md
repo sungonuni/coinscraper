@@ -1,4 +1,4 @@
-# coinscraper
+# oinscraper
 
 Coin Scrapper is a stock traing program that automatically sells and buys stocks based on the 'Open Api' of KIWOOM Securities Co., Ltd. at Korea. The program uses TensorFlow time series analysis to predict stock prices for the next three days and automatically trade with trend-seeking techniques.
 
