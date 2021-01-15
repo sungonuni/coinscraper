@@ -8,6 +8,7 @@ For more information, visit https://www3.kiwoom.com/nkw.templateFrameSet.do?m=m1
 
 File Configuration
 ============================
-coinscraper.ui - PyQt5 ui file
-main.py - Main Module
+coinscraper.ui : PyQt5 ui file
+
+main.py : Main Module
 ============================
