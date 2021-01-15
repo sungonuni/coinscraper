@@ -1,6 +1,6 @@
-# oinscraper
+# Coin scraper
 
-Coin Scrapper is a stock traing program that automatically sells and buys stocks based on the 'Open Api' of KIWOOM Securities Co., Ltd. at Korea. The program uses TensorFlow time series analysis to predict stock prices for the next three days and automatically trade with trend-seeking techniques.
+Coin Scraper is a stock traing program that automatically sells and buys stocks based on the 'Open Api' of KIWOOM Securities Co., Ltd. at Korea. The program uses TensorFlow time series analysis to predict stock prices for the next three days and automatically trade with trend-seeking techniques.
 
 This program is built on Python 3.8.7, PyQt5.
 OpenAi installation of Kiwoom Securities is required for code use.
